@@ -1,16 +1,3 @@
-# Arabic_Quotes
-
-license: apache-2.0
-task_categories:
-- text-classification
-- text-generation
-language:
-- ar
-size_categories:
-- 1K<n<10K
----
-
-
 # Arabic Quotes Dataset
 
 ![Dataset Size](https://img.shields.io/badge/dataset%20size-5900%2B%20lines-brightgreen)
